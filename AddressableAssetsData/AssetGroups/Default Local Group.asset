@@ -40,6 +40,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d0a0633e5893b44991201c27a86ecc
+    m_Address: UI/CraftingUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b95bd279688680f40a8bbb800cbad528
     m_Address: eq_worn_axe
     m_ReadOnly: 0
@@ -50,13 +55,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c8dd1c6daa69b454b888ad885da28f4a
-    m_Address: Monster/TestMonsterVisualPrefab
+  - m_GUID: cdb6947c1a8434640918778606200a22
+    m_Address: UI/NetworkSelectUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de61566e8fe8dca40b14f67a92b4c926
     m_Address: mat_slime_lump
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e58313ce08606154ea6d27128860f4de
+    m_Address: UI/SimplePopup
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
