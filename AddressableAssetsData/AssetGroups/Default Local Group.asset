@@ -55,6 +55,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8dd1c6daa69b454b888ad885da28f4a
+    m_Address: Monster/TestMonsterVisualPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cdb6947c1a8434640918778606200a22
     m_Address: UI/NetworkSelectUI
     m_ReadOnly: 0
