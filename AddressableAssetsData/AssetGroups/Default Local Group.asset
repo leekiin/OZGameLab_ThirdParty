@@ -37,6 +37,9 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8bcdefe1b1ff94748a96198c91bb34be
     m_Address: UI/InventoryUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b95bd279688680f40a8bbb800cbad528
     m_Address: eq_worn_axe
     m_ReadOnly: 0
@@ -44,6 +47,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c237d76f55e26714da522ad1caa0e2f2
     m_Address: eq_normal_axe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8dd1c6daa69b454b888ad885da28f4a
+    m_Address: Monster/TestMonsterVisualPrefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
