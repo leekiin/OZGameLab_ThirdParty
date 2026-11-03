@@ -20,13 +20,48 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 268d2667f3280674eaec94efd1cec271
+    m_Address: UI/RuneInventoryUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27804845906fd4e43820cc0fd815669d
+    m_Address: rune_ice
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37968968579f6704583b606d5a83d18e
+    m_Address: rune_bear
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 40e6d5735b921af419b3d1b710c6342c
     m_Address: Prefab/Mesh/TestPrefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c548aba1930fa44dba9a670269764dd
+    m_Address: rune_projectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dca6fe6d49d944459347c0b0357b4c1
+    m_Address: rune_triple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 521cd18fca7945641badeccca1bf5cef
+    m_Address: rune_heavy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 594b28e92b9e5344c93ba6d1cefbf299
     m_Address: UI/GatheringUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83ead26ad91fdbb40a9aafe5d9a86a22
+    m_Address: rune_triple
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -40,6 +75,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9796076e2dff4374ea84e4028ec5d76c
+    m_Address: rune_mosquito
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e3779cde57b3064d9544b47ceb42ee5
+    m_Address: rune_snake
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a4d0a0633e5893b44991201c27a86ecc
     m_Address: UI/CraftingUI
     m_ReadOnly: 0
@@ -47,6 +92,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b85b8a7e59d330a4ba450d172dd0f0dc
     m_Address: MonsterMeleeAtk/MonsterMeleeAtkSkill
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8662f8438caa8b47b5457c9dfe79657
+    m_Address: weapon_basic_sword
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -60,6 +110,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6fc5dd402e68284eabd02cbf161b9bf
+    m_Address: rune_fire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c8dd1c6daa69b454b888ad885da28f4a
     m_Address: Monster/TestMonsterVisualPrefab
     m_ReadOnly: 0
@@ -70,8 +125,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d82a9dc0ba683f346ba423ab3de235cf
+    m_Address: rune_bat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de61566e8fe8dca40b14f67a92b4c926
     m_Address: mat_slime_lump
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4025f392ef658a428ed1f990440752f
+    m_Address: rune_lightning
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
