@@ -20,8 +20,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc1baaa9c888ec4f85aeeee78ca4a8e
+    m_Address: UI/LoggingMiningUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 40e6d5735b921af419b3d1b710c6342c
     m_Address: Prefab/Mesh/TestPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 557c90312d4e41044899a03e640d8d80
+    m_Address: Prefab/Mesh/TestLoggingMiningPrefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
