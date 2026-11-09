@@ -20,6 +20,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc1baaa9c888ec4f85aeeee78ca4a8e
+    m_Address: UI/LoggingMiningUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 268d2667f3280674eaec94efd1cec271
     m_Address: UI/RuneInventoryUI
     m_ReadOnly: 0
@@ -32,11 +37,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 37968968579f6704583b606d5a83d18e
     m_Address: rune_bear
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1dc1baaa9c888ec4f85aeeee78ca4a8e
-    m_Address: UI/LoggingMiningUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -57,6 +57,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 521cd18fca7945641badeccca1bf5cef
     m_Address: rune_heavy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 557c90312d4e41044899a03e640d8d80
+    m_Address: Prefab/Mesh/TestLoggingMiningPrefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
