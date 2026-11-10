@@ -35,6 +35,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bd9c5fe576d8d54caa642435afc113c
+    m_Address: UI/NetworkSelectUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 37968968579f6704583b606d5a83d18e
     m_Address: rune_bear
     m_ReadOnly: 0
