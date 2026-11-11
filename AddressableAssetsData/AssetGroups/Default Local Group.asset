@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
+  - m_GUID: 034abf8785074634a8ed8d0ad8b00b91
+    m_Address: BossThornSkill/BossThornAttackObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1b34086bf94baae4fa5b4a8bcd551d6c
     m_Address: con_red_berry
     m_ReadOnly: 0
@@ -80,6 +85,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b7584bde7a5ba043b02920da5ac5239
+    m_Address: Boss/BossObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b7a137ad163c3342a3b5395e024f6be
     m_Address: UI/InteractableInfoUI
     m_ReadOnly: 0
@@ -132,11 +142,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c8dd1c6daa69b454b888ad885da28f4a
     m_Address: Monster/TestMonsterVisualPrefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cdb6947c1a8434640918778606200a22
-    m_Address: UI/NetworkSelectUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
