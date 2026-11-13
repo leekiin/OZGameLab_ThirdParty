@@ -130,6 +130,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 913dd10377e64ddd96d2e20f84dc537d
+    m_Address: UI/BossHealthUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9796076e2dff4374ea84e4028ec5d76c
     m_Address: rune_mosquito
     m_ReadOnly: 0
@@ -197,6 +202,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e58313ce08606154ea6d27128860f4de
     m_Address: UI/SimplePopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9169457adea71f4cb0c3f0f6e1e7ce3
+    m_Address: BossSkill/BossPoisonMistObject
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
