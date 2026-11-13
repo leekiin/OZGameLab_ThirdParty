@@ -15,13 +15,13 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
-  - m_GUID: 12986c757a4f494f9b09bcea61534cfc
-    m_Address: BossPoisonSpraySkill/BossPoisonProjectile
+  - m_GUID: 034abf8785074634a8ed8d0ad8b00b91
+    m_Address: BossThornSkill/BossThornAttackObject
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 034abf8785074634a8ed8d0ad8b00b91
-    m_Address: BossThornSkill/BossThornAttackObject
+  - m_GUID: 12986c757a4f494f9b09bcea61534cfc
+    m_Address: BossPoisonSpraySkill/BossPoisonProjectile
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -52,6 +52,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 37968968579f6704583b606d5a83d18e
     m_Address: rune_bear
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39e1b5edb773e5d49ac1eb9b685fb4eb
+    m_Address: BossSkill/BossHealEffect
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -157,6 +162,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de61566e8fe8dca40b14f67a92b4c926
     m_Address: mat_slime_lump
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e284a109b23a5b54db211f5edd7414f2
+    m_Address: Monster/TestFlowerVisualPrefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
