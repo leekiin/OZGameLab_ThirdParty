@@ -90,6 +90,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67663cd343173e64d98c89daeba4db37
+    m_Address: UI/LobbyUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a685834140d7174eb24042a39d47f0c
+    m_Address: UI/SettingUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 83ead26ad91fdbb40a9aafe5d9a86a22
     m_Address: rune_triple
     m_ReadOnly: 0
