@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
+  - m_GUID: 1f0d2e3cd452b874884528bb8a8bb3a8
+    m_Address: UI/FishingUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a1c3c5474dbec604ebd80143148f0edb
     m_Address: UI/SlidingPuzzleUI
     m_ReadOnly: 0
