@@ -15,6 +15,16 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
+  - m_GUID: a1c3c5474dbec604ebd80143148f0edb
+    m_Address: UI/SlidingPuzzleUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7d2b9fbdb8758aa1b26d4bd0a561ed5
+    m_Address: UI/DialogueUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 034abf8785074634a8ed8d0ad8b00b91
     m_Address: BossThornSkill/BossThornAttackObject
     m_ReadOnly: 0
