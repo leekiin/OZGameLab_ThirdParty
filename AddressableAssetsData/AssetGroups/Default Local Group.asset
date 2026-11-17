@@ -120,6 +120,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b40decf67b69894abe5090f2ada079b
+    m_Address: UI/PlayerHudUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 83ead26ad91fdbb40a9aafe5d9a86a22
     m_Address: rune_triple
     m_ReadOnly: 0
