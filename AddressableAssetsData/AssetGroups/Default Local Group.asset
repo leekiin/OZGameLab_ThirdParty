@@ -15,6 +15,16 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
+  - m_GUID: 35ebca7344554b6aa3f122cd7fc553d3
+    m_Address: World/ResourceLayouts/RareBlueBerryLayout
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9818e69c2d8541c2be8258ecce12cdfd
+    m_Address: UI/DemoCompleteUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee47175cd3864776a74d3e60f76d8f03
     m_Address: sampleicon
     m_ReadOnly: 0
@@ -55,7 +65,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1b34086bf94baae4fa5b4a8bcd551d6c
+  - m_GUID: 8cbf9ef4d4884523ba47bd9d72030113
     m_Address: con_red_berry
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -80,7 +90,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 27804845906fd4e43820cc0fd815669d
+  - m_GUID: 811cd62b25ef4b1b9c1401726cccd11e
     m_Address: rune_ice
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -90,7 +100,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 37968968579f6704583b606d5a83d18e
+  - m_GUID: 7a496afdca7a4d2cac12a31474dfe2d0
     m_Address: rune_bear
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -105,17 +115,17 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4c548aba1930fa44dba9a670269764dd
+  - m_GUID: a75171433a2043c5b2401cc41dd3a3e1
     m_Address: rune_projectile
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4dca6fe6d49d944459347c0b0357b4c1
+  - m_GUID: 3e1b04c9a9524865baa9ee389815cbaf
     m_Address: rune_triple
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 521cd18fca7945641badeccca1bf5cef
+  - m_GUID: 0afc5ddfd2b14bf49eaf99384bfd50c9
     m_Address: rune_heavy
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -142,11 +152,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b40decf67b69894abe5090f2ada079b
     m_Address: UI/PlayerHudUI
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 83ead26ad91fdbb40a9aafe5d9a86a22
-    m_Address: rune_triple
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -180,12 +185,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9796076e2dff4374ea84e4028ec5d76c
+  - m_GUID: ce2f3ee67c7a4e0c8380fba41ae55b03
     m_Address: rune_mosquito
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9e3779cde57b3064d9544b47ceb42ee5
+  - m_GUID: c64054879d524405b0cb746b00bebb47
     m_Address: rune_snake
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -205,23 +210,38 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b8662f8438caa8b47b5457c9dfe79657
+  - m_GUID: 5e045ad71e1048d28d6050a5c42e9acf
     m_Address: weapon_basic_sword
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b95bd279688680f40a8bbb800cbad528
+  - m_GUID: 856e05f5c4d34aebae7704517634f0d1
     m_Address: eq_worn_axe
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c237d76f55e26714da522ad1caa0e2f2
+  - m_GUID: dc1f7634e58046aca80f4e81dc972c21
     m_Address: eq_normal_axe
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c6fc5dd402e68284eabd02cbf161b9bf
+  - m_GUID: dc7d3fe2ae764f86b471e542316ea379
     m_Address: rune_fire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22776c90af1b48e6a37a6b96b958fa95
+    m_Address: Monster/SlimeVisual
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcf97656502e4929b8295e6a3372e0db
+    m_Address: Monster/BoarVisual
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 297f922716b644918d41f8c218634e8e
+    m_Address: Monster/BatVisual
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -230,12 +250,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d82a9dc0ba683f346ba423ab3de235cf
+  - m_GUID: bde76ed6d25740f18988d6ad624f4244
     m_Address: rune_bat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: de61566e8fe8dca40b14f67a92b4c926
+  - m_GUID: 50d43acb045a4d3dbd6123da00b0e622
     m_Address: mat_slime_lump
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -250,7 +270,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e4025f392ef658a428ed1f990440752f
+  - m_GUID: 54c3de0054ef4514887262b670a22033
     m_Address: rune_lightning
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -277,6 +297,61 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb573e25738f9294db98ce3e13dc0dd4
     m_Address: BossThornSkill/BossDirectionalThornAttackObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8804063a87934f9598586836062cf141
+    m_Address: equipment_poison_charm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed4980043e2d4adb830f066b4552133e
+    m_Address: eq_worn_fishingrod
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cba26738e384d17b326be0ea844b372
+    m_Address: eq_worn_pickaxe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a27c1f50462f42e4bd01c8ebef6a51e7
+    m_Address: mat_monster_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20d6ecabc25f4c58a2c3f5ecac1d13dd
+    m_Address: mat_monster_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 858fcea3b1c249dcaeedaa548aecdf04
+    m_Address: con_fish_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0db49fa5022d42229c2d01b6123e5807
+    m_Address: con_fish_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3c0273cc65b4bf6a71f6410657f8d85
+    m_Address: mat_wood_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a320355a3eda4c31a689170a3b2c7f49
+    m_Address: con_berry_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e921e7143ae43138127ca3d9920b9b4
+    m_Address: mat_ore_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bf2c76165ad48b7b19940e74e8db488
+    m_Address: mat_ore_02
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
