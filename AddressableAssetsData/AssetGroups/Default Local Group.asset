@@ -15,8 +15,18 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 33fe2f9940a326a42987a9dde1940703
   m_SerializeEntries:
+  - m_GUID: 12338e8d72234ba1b198a70b298b9bda
+    m_Address: UI/LoadingUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 35ebca7344554b6aa3f122cd7fc553d3
     m_Address: World/ResourceLayouts/RareBlueBerryLayout
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51794e5ace8654b4afcb29664fcf1efd
+    m_Address: UI/FourGuysIntroUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -147,6 +157,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6a685834140d7174eb24042a39d47f0c
     m_Address: UI/SettingUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 186feb491976450997962f914d9f35ef
+    m_Address: UI/ControlsHelpUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -346,12 +361,32 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1e921e7143ae43138127ca3d9920b9b4
-    m_Address: mat_ore_01
+    m_Address: mat_stone
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9bf2c76165ad48b7b19940e74e8db488
-    m_Address: mat_ore_02
+    m_Address: mat_iron_ore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9afd32ae0847719ba763bf9011c963
+    m_Address: NPC/Girl/Neutral
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c822b7fff8e44ed2b68375a41ef0424f
+    m_Address: NPC/Girl/Smile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e143d4d6c02e40ccb13b785977b71375
+    m_Address: NPC/Girl/Surprised
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1daa2a7475547a79d5f765bb632dbfe
+    m_Address: NPC/Girl/RelievedSigh
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
